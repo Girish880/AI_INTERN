@@ -1,0 +1,112 @@
+[
+  {
+    "test_id": "cand_1",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_2",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_3",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_4",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_5",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_6",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_7",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_8",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_9",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  },
+  {
+    "test_id": "cand_10",
+    "status": "completed",
+    "verdict": "unknown",
+    "artifacts": {
+      "screenshots": [],
+      "dom_snapshot": null,
+      "console_logs": [],
+      "network_log": null
+    }
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "run_id": "run_3a664c62",
+  "summary": {
+    "total": 10,
+    "passed": 0,
+    "failed": 0,
+    "flaky": 10
+  },
+  "tests": [
+    {
+      "test_id": "cand_1",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_2",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_3",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_4",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_5",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_6",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_7",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_8",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_9",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    },
+    {
+      "test_id": "cand_10",
+      "verdict": "flaky",
+      "artifacts": {
+        "screenshots": [],
+        "dom_snapshot": null,
+        "console_logs": [],
+        "network_log": null
+      },
+      "reproducibility": {
+        "repeats": 1,
+        "stable": false
+      },
+      "notes": "Placeholder analysis. Implement AnalyzerAgent for real validation."
+    }
+  ]
+}
